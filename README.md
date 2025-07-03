@@ -1,12 +1,30 @@
-# React + Vite
+# 🧩 Minimalist React Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive admin dashboard built using **React**, designed for managing users efficiently with a smooth and modern UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 **Login system** with context API
+- 👥 **User listing** with real-time updates
+- ✏️ **Edit / Delete** user functionality
+- 🔄 **React Router DOM** for seamless navigation
+- 📦 State management using React Hooks
+- 🪶 Minimal and clean UI using **Tailwind CSS**
+- 🧪 Fallback UI: Shows "No users found" when empty
+- ⚙️ Fully component-based architecture
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (with Hooks & Context)
+- **Tailwind CSS**
+- **React Router DOM**
+- **Vite** (for lightning-fast dev environment)
+
+## 👨‍💻 Developer
+
+Created with ❤️ by **Anil Kumar Sahu**  
+📧 [anil.mauganj100@gmail.com](mailto:anil.mauganj100@gmail.com)
+
+---
+
+> 🔗 Feel free to clone, fork, or contribute!
